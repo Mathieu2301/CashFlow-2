@@ -1,0 +1,7 @@
+background : #19222D
+Menu/tuile: #293A48
+Titre tuiles : #2D4252
+Select/Titre : #009FA2
+Vert : #A2EAEB
+Jaune : #FEDC4B
+Rouge : #FE4B76
