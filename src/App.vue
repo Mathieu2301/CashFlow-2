@@ -2,11 +2,16 @@
   <div id="app">
     <div id="nav">
       <router-link to="/">Home</router-link> |
-      <router-link to="/about">About</router-link>
+      <router-link to="/app/login">Login</router-link> |
+      <router-link to="/app/dashboard">Dashboard</router-link> |
+      <router-link to="/app/income">Income</router-link> |
+      <router-link to="/app/expenses">Expenses</router-link> |
+      <router-link to="/app/settings">Settings</router-link>
     </div>
     <router-view/>
   </div>
 </template>
+
 
 <style>
 #app {
